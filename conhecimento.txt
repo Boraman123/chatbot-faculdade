@@ -1,0 +1,66 @@
+```text
+INFORMAÇÕES DA FACULDADE
+
+CURSOS
+
+A faculdade oferece três cursos:
+
+- Sistemas de Informação
+- Administração
+- Engenharia de Software
+
+
+SECRETARIA
+
+A secretaria funciona de segunda a sexta-feira, das 8h às 18h.
+
+A base de conhecimento não informa o horário de funcionamento da secretaria aos sábados e domingos.
+
+
+ATENDIMENTO
+
+O atendimento aos alunos é realizado durante o horário de funcionamento da secretaria.
+
+O atendimento aos alunos acontece de segunda a sexta-feira, das 8h às 18h.
+
+
+PERÍODO DE AULAS
+
+As aulas do período noturno começam às 19h.
+
+A base de conhecimento informa apenas o horário de início das aulas do período noturno.
+
+
+INFORMAÇÕES SOBRE OS CURSOS
+
+Sistemas de Informação é um dos cursos oferecidos pela faculdade.
+
+Administração é um dos cursos oferecidos pela faculdade.
+
+Engenharia de Software é um dos cursos oferecidos pela faculdade.
+
+
+LIMITAÇÕES DA BASE DE CONHECIMENTO
+
+A base de conhecimento não informa:
+
+- Preço das mensalidades.
+- Valores das mensalidades dos cursos.
+- Duração dos cursos.
+- Duração do curso de Sistemas de Informação.
+- Duração do curso de Administração.
+- Duração do curso de Engenharia de Software.
+- Professores da faculdade.
+- Endereço da faculdade.
+- Contatos ou telefone da faculdade.
+- Calendário acadêmico.
+- Datas das provas.
+- Matérias de cada curso.
+- Requisitos para matrícula.
+- Documentos necessários para matrícula.
+- Objetivo específico de cada curso.
+- Bolsas de estudo.
+- Estágio.
+- Transporte.
+- Estacionamento.
+```
